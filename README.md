@@ -27,10 +27,10 @@ The success of the project was measured by the effectiveness of the BI solution 
 
 2. **Data Extraction and Cleaning:** Extracting data from the designated sources, I performed data cleaning tasks, including removing duplicates, handling missing values, and ensuring data consistency.
 
-3. **Data Modeling:** To optimize data structure for analysis, I created a data model within PowerBI, establishing relationships between tables.
-
-4. **Data Loading:** The cleaned and modeled data was loaded into PowerBI using appropriate features, and I meticulously documented all data loading and transformation steps.
-<img width="871" alt="Screenshot 2023-09-20 235339" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/ce0901ae-9745-477f-b818-a9474a518644">
+3. **Data Loading:** The cleaned and modeled data was loaded into PowerBI using appropriate features, and I meticulously documented all data loading and transformation steps.
+ 
+4. **Data Modeling:** To optimize data structure for analysis, I created a data model within PowerBI, establishing relationships between tables.
+   <img width="871" alt="Screenshot 2023-09-20 235339" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/ce0901ae-9745-477f-b818-a9474a518644">
 
 5. **Dashboard Design:** Crafting interactive dashboards and reports in PowerBI was a key part of the project. I incorporated charts, graphs, and tables to visualize data and used DAX functions for data analysis.
 

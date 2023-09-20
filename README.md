@@ -87,7 +87,7 @@ For additional guidance and inspiration, I referred to the following references:
 
 ## Deliverables
 
-To conclude the Capstone project, I provided the following deliverables:
+To conclude the project, I provided the following deliverables:
 
 - [Documented report]() in Word or PDF format.
 - SQL files detailing data transformations and analytics.

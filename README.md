@@ -23,7 +23,7 @@ The success of the project was measured by the effectiveness of the BI solution 
 
 ### Steps to Solve the Capstone Project
 
-1. **Data Source:** I leveraged a provided MySQL database as the data source and created a new database named 'classicmodels' in MySQL using the provided [link]((https://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampledatabase.zip)).
+1. **Data Source:** I leveraged a provided MySQL database as the data source and created a new database named 'classicmodels' in MySQL using the provided [link](https://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampledatabase.zip).
 
 2. **Data Extraction and Cleaning:** Extracting data from the designated sources, I performed data cleaning tasks, including removing duplicates, handling missing values, and ensuring data consistency.
 
@@ -65,10 +65,14 @@ To successfully complete the Capstone project, I employed the following tools an
 - Sales View
 <img width="615" alt="Screenshot 2023-09-20 234358" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/f2cfbc82-d761-423b-9164-cc99a6d298f3">
 
+
 - Order view
+  
   <img width="605" alt="Screenshot 2023-09-20 234416" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/19e068c3-a8d6-4cbc-a552-5c6d3aeaec1f">
 
+
 - Product view
+ 
   <img width="605" alt="Screenshot 2023-09-20 234429" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/e0d2eb9c-2b6c-4db3-a0d3-687defcd5d18">
 
 

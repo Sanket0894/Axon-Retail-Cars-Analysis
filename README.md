@@ -27,7 +27,8 @@ The success of the project will be determined by the effectiveness of the BI sol
 3. **Data Loading:** Load the cleaned data into PowerBI using appropriate features. Document all data loading and transformation steps clearly.
 
 4. **Data Modeling:** Create a data model within PowerBI, establishing relationships between tables and optimizing data structure for analysis.
-(file:///C:/Users/sanke/Pictures/Screenshots/Screenshot%202023-09-20%20235339.png)
+<img width="871" alt="Screenshot 2023-09-20 235339" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/fac424b0-5a5d-46aa-9af8-6646e14dc60b">
+
 
 4. **Dashboard Design:** Design interactive dashboards and reports in PowerBI, incorporating charts, graphs, and tables to visualize data. Utilize DAX functions for data analysis.
 

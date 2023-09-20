@@ -63,6 +63,7 @@ To successfully complete the Capstone project, I employed the following tools an
 
 ### Some report views
 - Sales View
+  
   <img width="615" alt="Screenshot 2023-09-20 234358" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/f2cfbc82-d761-423b-9164-cc99a6d298f3">
 
 

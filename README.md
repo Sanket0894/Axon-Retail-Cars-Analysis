@@ -20,13 +20,14 @@ The success of the project will be determined by the effectiveness of the BI sol
 
 ### Steps to Solve the Capstone Project
 
-1. **Data Source:** Utilize the provided MySQL database as the data source. Create a new database named 'classicmodels' in MySQL using the provided link.
+1. **Data Source:** Utilize the provided MySQL database as the data source. Create a new database named 'classicmodels' in MySQL using the [link](https://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampledatabase.zip).
 
 2. **Data Extraction and Cleaning:** Extract data from the designated sources and perform data cleaning tasks such as removing duplicates, handling missing values, and ensuring data consistency.
 
 3. **Data Loading:** Load the cleaned data into PowerBI using appropriate features. Document all data loading and transformation steps clearly.
 
 4. **Data Modeling:** Create a data model within PowerBI, establishing relationships between tables and optimizing data structure for analysis.
+   
 <img width="871" alt="Screenshot 2023-09-20 235339" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/fac424b0-5a5d-46aa-9af8-6646e14dc60b">
 
 

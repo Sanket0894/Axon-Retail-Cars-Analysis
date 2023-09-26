@@ -1,0 +1,1 @@
+select ROUND(avg(creditlimit),2) AS Avg_credit_limit from customers;

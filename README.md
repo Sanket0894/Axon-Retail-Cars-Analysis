@@ -89,7 +89,7 @@ For additional guidance and inspiration, I referred to the following references:
 
 To conclude the project, I provided the following deliverables:
 
-- [Documented report]() in Word or PDF format.
+- [Documented report](Axon Retail Cars Analysis documentation.pdf) in Word or PDF format.
 - SQL files detailing data transformations and analytics.
 - [Power BI report](https://www.novypro.com/project/axon-cars-analysis-power-bi) showcasing interactive dashboards, reports, and data modeling.
 

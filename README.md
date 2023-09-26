@@ -64,19 +64,19 @@ To successfully complete the Capstone project, I employed the following tools an
 ### Some report views
 - Sales View
   
-  <img width="615" alt="Screenshot 2023-09-20 234358" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/f2cfbc82-d761-423b-9164-cc99a6d298f3">
+  <img width="582" alt="Screenshot 2023-09-26 224704" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/8e7d7f61-d2d2-41ae-b1ee-f9a7aa76bde5">
 
 
 - Order view
   
-  <img width="605" alt="Screenshot 2023-09-20 234416" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/19e068c3-a8d6-4cbc-a552-5c6d3aeaec1f">
+  <img width="577" alt="Screenshot 2023-09-26 224839" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/a22088b7-d339-4d06-ab51-a08b2b6da11e">
 
 
 - Product view
+
+  <img width="580" alt="Screenshot 2023-09-26 224945" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/d0eb4b46-c3b5-40ec-a339-d41af614c2dd">
+
  
-  <img width="605" alt="Screenshot 2023-09-20 234429" src="https://github.com/Sanket0894/Axon-Retail-Cars-Analysis/assets/131572641/e0d2eb9c-2b6c-4db3-a0d3-687defcd5d18">
-
-
 ## References
 
 For additional guidance and inspiration, I referred to the following references:
